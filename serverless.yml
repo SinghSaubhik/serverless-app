@@ -1,6 +1,6 @@
 # Welcome to Serverless!
 
-service: serverless-test
+service: serverless-app
 frameworkVersion: '2'
 
 plugins:
